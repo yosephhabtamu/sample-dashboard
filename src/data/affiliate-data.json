@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@email.com",
+      "totalRevenue": "45,230",
+      "commission": "9,046",
+      "joinDate": "2023-01-15",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "email": "m.chen@email.com",
+      "totalRevenue": "38,920",
+      "commission": "7,784",
+      "joinDate": "2023-02-22",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Emma Rodriguez",
+      "email": "emma.r@email.com",
+      "totalRevenue": "52,180",
+      "commission": "10,436",
+      "joinDate": "2022-11-08",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "email": "david.kim@email.com",
+      "totalRevenue": "29,450",
+      "commission": "5,890",
+      "joinDate": "2023-03-10",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Lisa Thompson",
+      "email": "lisa.t@email.com",
+      "totalRevenue": "41,760",
+      "commission": "8,352",
+      "joinDate": "2023-01-28",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "James Wilson",
+      "email": "j.wilson@email.com",
+      "totalRevenue": "18,320",
+      "commission": "3,664",
+      "joinDate": "2023-05-14",
+      "status": "Inactive"
+    },
+    {
+      "id": 7,
+      "name": "Maria Garcia",
+      "email": "maria.garcia@email.com",
+      "totalRevenue": "35,680",
+      "commission": "7,136",
+      "joinDate": "2023-02-05",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Robert Taylor",
+      "email": "r.taylor@email.com",
+      "totalRevenue": "48,950",
+      "commission": "9,790",
+      "joinDate": "2022-12-12",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Jennifer Lee",
+      "email": "jennifer.lee@email.com",
+      "totalRevenue": "22,140",
+      "commission": "4,428",
+      "joinDate": "2023-04-18",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Alex Martinez",
+      "email": "alex.m@email.com",
+      "totalRevenue": "56,780",
+      "commission": "11,356",
+      "joinDate": "2022-10-25",
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "name": "Amanda Brown",
+      "email": "amanda.brown@email.com",
+      "totalRevenue": "31,250",
+      "commission": "6,250",
+      "joinDate": "2023-03-22",
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "name": "Kevin Davis",
+      "email": "kevin.davis@email.com",
+      "totalRevenue": "14,890",
+      "commission": "2,978",
+      "joinDate": "2023-06-01",
+      "status": "Inactive"
+    },
+    {
+      "id": 13,
+      "name": "Rachel Green",
+      "email": "rachel.green@email.com",
+      "totalRevenue": "43,120",
+      "commission": "8,624",
+      "joinDate": "2023-01-12",
+      "status": "Active"
+    },
+    {
+      "id": 14,
+      "name": "Daniel White",
+      "email": "daniel.white@email.com",
+      "totalRevenue": "27,560",
+      "commission": "5,512",
+      "joinDate": "2023-04-05",
+      "status": "Active"
+    },
+    {
+      "id": 15,
+      "name": "Sophie Anderson",
+      "email": "sophie.a@email.com",
+      "totalRevenue": "39,840",
+      "commission": "7,968",
+      "joinDate": "2023-02-14",
+      "status": "Active"
+    },
+    {
+      "id": 16,
+      "name": "Mark Johnson",
+      "email": "mark.johnson@email.com",
+      "totalRevenue": "16,720",
+      "commission": "3,344",
+      "joinDate": "2023-05-28",
+      "status": "Inactive"
+    },
+    {
+      "id": 17,
+      "name": "Nicole Miller",
+      "email": "nicole.miller@email.com",
+      "totalRevenue": "50,340",
+      "commission": "10,068",
+      "joinDate": "2022-11-30",
+      "status": "Active"
+    },
+    {
+      "id": 18,
+      "name": "Christopher Moore",
+      "email": "chris.moore@email.com",
+      "totalRevenue": "33,670",
+      "commission": "6,734",
+      "joinDate": "2023-03-08",
+      "status": "Active"
+    },
+    {
+      "id": 19,
+      "name": "Ashley Clark",
+      "email": "ashley.clark@email.com",
+      "totalRevenue": "25,480",
+      "commission": "5,096",
+      "joinDate": "2023-04-12",
+      "status": "Active"
+    },
+    {
+      "id": 20,
+      "name": "Ryan Lewis",
+      "email": "ryan.lewis@email.com",
+      "totalRevenue": "47,290",
+      "commission": "9,458",
+      "joinDate": "2022-12-20",
+      "status": "Active"
+    }
+  ]
+  
